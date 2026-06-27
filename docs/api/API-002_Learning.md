@@ -79,6 +79,29 @@ GET /v1/learning-path
 
 ---
 
+## Tạo Learning Path ban đầu
+
+### Endpoint
+
+```http
+POST /v1/learning-path/generate
+```
+
+### Mô tả
+Tạo lộ trình học tập lần đầu tiên sau khi người học hoàn thành bước chọn mục tiêu và môn học.
+
+### Response
+
+```json
+{
+  "learningPathId": "lp_001",
+  "firstLessonId": "lesson_001",
+  "status": "READY"
+}
+```
+
+---
+
 ## Tạo lại Learning Path
 
 ### Endpoint

@@ -38,7 +38,34 @@ DB-001 là nền tảng để xây dựng các tài liệu Database tiếp theo.
 
 # High-Level ERD
 
-(ERD tổng thể sẽ được bổ sung)
+```mermaid
+erDiagram
+    USERS ||--o{ ENROLLMENTS : registers
+    USERS ||--o{ SESSIONS : establishes
+    USERS ||--o{ AI_CONVERSATIONS : initiates
+    USERS ||--o{ QUIZ_ATTEMPTS : submits
+    USERS ||--|| GAMIFICATION_PROFILES : owns
+    USERS ||--o{ SUBSCRIPTIONS : purchases
+    USERS ||--o{ NOTIFICATIONS : receives
+    USERS ||--|| USER_SETTINGS : configures
+
+    SUBJECTS ||--o{ COURSES : contains
+    COURSES ||--o{ LESSONS : contains
+    LESSONS ||--o{ KNOWLEDGE_UNITS : contains
+    KNOWLEDGE_UNITS ||--o{ CONTENT_BLOCKS : content
+    KNOWLEDGE_UNITS ||--o{ QUIZZES : evaluated_by
+
+    QUIZZES ||--o{ QUESTIONS : contains
+    QUESTIONS ||--o{ ANSWER_OPTIONS : choices
+    QUIZ_ATTEMPTS ||--o{ QUIZ_ANSWERS : provides
+    QUIZ_ATTEMPTS ||--|| QUIZ_RESULTS : produces
+
+    AI_CONVERSATIONS ||--o{ AI_MESSAGES : contains
+    AI_MESSAGES ||--o{ RETRIEVAL_RUNS : references
+    RETRIEVAL_RUNS ||--o{ RETRIEVED_CONTEXTS : snapshots
+    CONTENT_BLOCKS ||--o{ CONTENT_CHUNKS : splits_into
+    CONTENT_CHUNKS ||--o{ RETRIEVED_CONTEXTS : referenced_in
+```
 
 ---
 
@@ -107,6 +134,7 @@ DB-001 là nền tảng để xây dựng các tài liệu Database tiếp theo.
 - AuditLog
 - ActivityLog
 - Setting
+- UserSetting
 
 ---
 
@@ -146,9 +174,12 @@ Sau khi DB-001 được phê duyệt sẽ triển khai:
 - DB-005 Quiz
 - DB-006 Gamification
 - DB-007 Payment
+- DB-011 System
 
 Sau đó mới sinh:
 
+- DB-010 RAG
 - database.md
 - schema.prisma
 - migration SQL
+

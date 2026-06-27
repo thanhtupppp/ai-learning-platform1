@@ -92,7 +92,7 @@ Nếu không có Internet.
 
 # API liên quan
 
-- POST /anonymous/session
+- POST /v1/auth/guest
 
 ---
 

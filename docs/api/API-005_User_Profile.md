@@ -74,7 +74,65 @@ PATCH /v1/profile
 
 ---
 
-# 3. Tiến độ học
+# 3. Lưu mục tiêu học
+
+## Endpoint
+
+```http
+POST /v1/users/learning-goal
+```
+
+### Mô tả
+Thiết lập mục tiêu học tập ban đầu (hoặc cập nhật mục tiêu học) cho người dùng.
+
+### Request
+
+```json
+{
+  "goal": "high_school_exam"
+}
+```
+
+### Response
+
+```json
+{
+  "success": true
+}
+```
+
+---
+
+# 4. Lưu danh sách môn học
+
+## Endpoint
+
+```http
+POST /v1/users/subjects
+```
+
+### Mô tả
+Thiết lập danh sách môn học đã chọn của người dùng trong bước onboarding.
+
+### Request
+
+```json
+{
+  "subjects": ["biology", "mathematics"]
+}
+```
+
+### Response
+
+```json
+{
+  "success": true
+}
+```
+
+---
+
+# 5. Tiến độ học
 
 ## Endpoint
 
@@ -96,7 +154,7 @@ GET /v1/profile/progress
 
 ---
 
-# 4. Thống kê theo môn
+# 6. Thống kê theo môn
 
 ## Endpoint
 
@@ -120,7 +178,7 @@ GET /v1/profile/subjects
 
 ---
 
-# 5. Thành tích học tập
+# 7. Thành tích học tập
 
 ## Endpoint
 

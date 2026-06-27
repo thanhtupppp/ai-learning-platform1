@@ -142,7 +142,7 @@ Knowledge Retrieval (RAG)
       ↓
 Prompt Builder
       ↓
-9Router
+Model Router
       ↓
 LLM
       ↓

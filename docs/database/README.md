@@ -12,5 +12,6 @@
 | [DB-008](DB-008_database.md) | Database standards and operations |
 | [DB-009](DB-009_plan.md) | Database implementation plan |
 | [DB-010](DB-010_RAG.md) | Embedding and vector retrieval |
+| [DB-011](DB-011_System.md) | System settings, logs and notifications |
 
 Domain documents define ownership and invariants. Physical migrations must follow DB-008 and DB-009.

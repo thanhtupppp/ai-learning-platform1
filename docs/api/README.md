@@ -6,5 +6,7 @@
 - [API-003 – AI Tutor](API-003_AI_Tutor.md)
 - [API-004 – Quiz](API-004_Quiz.md)
 - [API-005 – User Profile](API-005_User_Profile.md)
+- [API-006 – Gamification](API-006_Gamification.md)
+- [API-007 – Billing & Payment](API-007_Payment.md)
 
 API files describe external contracts. Domain invariants remain authoritative in `docs/database/` and implementation specifications in `docs/spec/`.

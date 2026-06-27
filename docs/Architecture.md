@@ -174,9 +174,9 @@ PRD → User Journey → Use Case → API → Database → Code
 
 # Tài liệu liên quan
 
-- PROJECT_BIBLE.md
-- README.md
-- Vision
-- ADR
-- SPEC
-- PRD
+- [Project Bible](PROJECT_BIBLE.md)
+- [README](README.md)
+- [Vision](vision/README.md)
+- [ADR](adr/README.md)
+- [SPEC](spec/README.md)
+- [PRD](prd/README.md)
