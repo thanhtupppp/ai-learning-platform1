@@ -1,3 +1,3 @@
 # Database
 
-Database schemas, models, and migration documentation.
+Database schema and migration documents.

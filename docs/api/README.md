@@ -1,3 +1,3 @@
 # API
 
-API contracts, conventions, and endpoint documentation.
+API contracts and OpenAPI specifications.
