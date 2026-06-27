@@ -1,29 +1,41 @@
 # AI Learning Platform
 
-> AI-first personalized learning platform.
+> An AI-first personalized learning platform designed to help learners understand deeply, remember longer, and achieve their learning goals.
 
-## Vision
+## 🚀 Vision
 
-Build an AI Learning OS that helps learners understand deeply, remember longer, and learn more efficiently.
+Build an **AI Learning OS** where AI becomes a learning companion that guides learners through their entire learning journey.
 
-## Repository Structure
+## ✨ Core Principles
+
+- 🎯 Learner First
+- 🤖 AI as a Tutor
+- 🧠 Knowledge-Centric
+- 📚 Guided Learning
+- 🔌 API First
+- 📖 Documentation First
+
+## 📂 Repository Structure
 
 ```text
-apps/
-services/
-packages/
-docs/
-infrastructure/
+apps/              # Flutter applications
+services/          # Backend services
+packages/          # Shared packages
+docs/              # Project documentation
+infrastructure/    # Docker, deployment, monitoring
+scripts/           # Development scripts
 ```
 
-## Documentation
+## 📖 Documentation
 
-See [`docs/`](docs/).
+Project documentation is located in the `docs/` directory.
 
-## Current Status
+## 🏗 Current Status
 
-🚧 Sprint 0 - Repository Bootstrap
+- ✅ Repository initialized
+- 🚧 Sprint 0 – Repository Bootstrap
+- ⏳ Sprint 1 – First Learning Experience
 
-## License
+## 📄 License
 
-MIT
+MIT License

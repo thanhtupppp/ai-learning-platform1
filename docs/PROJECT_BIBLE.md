@@ -1,24 +1,39 @@
-# Project Bible
+# PROJECT BIBLE
 
 ## Vision
 
-AI Learning OS
+Build an AI Learning OS that helps learners study smarter with AI.
+
+---
 
 ## Mission
 
-Help learners learn smarter with AI.
+Create an AI-first learning platform that provides personalized learning paths, intelligent tutoring, and continuous knowledge tracking.
+
+---
 
 ## Product Principles
 
 - Learner First
 - AI First
-- Knowledge Centric
+- Knowledge Unit Centric
 - Guided Learning
+- Long-term Maintainability
+
+---
 
 ## Architecture
 
-See [`docs/adr/`](adr/).
+Architecture decisions are documented in the `docs/adr/` directory.
+
+---
 
 ## Documentation
 
-See [`docs/`](./).
+All project documents are stored under the `docs/` directory.
+
+---
+
+## Current Milestone
+
+Sprint 0 – Repository Bootstrap
