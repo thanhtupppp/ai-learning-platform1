@@ -1,3 +1,3 @@
 # Vision
 
-Product vision, mission, and long-term direction.
+- [VISION-001 – AI Learning OS](VISION-001_AI_Learning_OS.md)

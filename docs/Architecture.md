@@ -41,11 +41,11 @@ AI Gateway
 
         ↓
 
-9Router
+Model Router
 
         ↓
 
-LLM
+LLM Provider
 ```
 
 ---
@@ -105,7 +105,7 @@ Model Selector
 
 ↓
 
-9Router
+Model Router
 
 ↓
 
@@ -127,7 +127,7 @@ LLM
 Hệ thống sử dụng:
 
 - PostgreSQL làm cơ sở dữ liệu chính.
-- pgvector phục vụ tìm kiếm ngữ nghĩa.
+- Vector Store thông qua RAG adapter; provider được quyết định độc lập với Learning và AI Conversation schema.
 - Redis cho cache.
 - MinIO hoặc Amazon S3 cho lưu trữ tệp.
 

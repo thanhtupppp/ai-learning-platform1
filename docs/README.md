@@ -1,68 +1,54 @@
-# Tài liệu dự án
+# AI Learning Platform Documentation
 
-Chào mừng bạn đến với **AI Learning Platform**.
+Thư mục `docs/` là nguồn sự thật chính thức cho yêu cầu sản phẩm, kiến trúc, API, dữ liệu, AI và trải nghiệm người dùng.
 
-Thư mục `docs/` là nơi lưu trữ toàn bộ tài liệu chính thức của dự án.
+## Thứ tự đọc
 
----
+1. [Project Bible](PROJECT_BIBLE.md)
+2. [Vision](vision/VISION-001_AI_Learning_OS.md)
+3. [Architecture](Architecture.md)
+4. [Glossary](Glossary.md)
+5. [PRD-001](prd/PRD-001_First_Learning_Experience.md)
+6. [UJ-001](user-journey/UJ-001_First_Learning_Experience.md)
+7. [Use Cases](use-case/README.md)
+8. [Technical Specifications](spec/README.md)
+9. [API Contracts](api/README.md)
+10. [Database Designs](database/README.md)
+11. [AI Designs](ai/README.md)
+12. [UI Designs](ui/README.md)
+13. [Roadmap](roadmap/ROADMAP.md)
 
-# Cấu trúc tài liệu
+## Cấu trúc
 
 ```text
 docs/
-│
-├── README.md               # Mục lục tài liệu
-├── PROJECT_BIBLE.md        # Tổng quan dự án
-├── Architecture.md         # Kiến trúc hệ thống
-├── Glossary.md             # Thuật ngữ
-│
-├── vision/                 # Tầm nhìn sản phẩm
-├── adr/                    # Quyết định kiến trúc
-├── spec/                   # Đặc tả kỹ thuật
-├── prd/                    # Yêu cầu sản phẩm
-├── api/                    # Đặc tả API
-├── database/               # Thiết kế cơ sở dữ liệu
-├── ai/                     # Thiết kế AI
-├── ui-ux/                  # Thiết kế giao diện
-├── roadmap/                # Lộ trình phát triển
-├── changelog/              # Lịch sử thay đổi
-├── meeting/                # Biên bản họp
-├── doc/                    # Quy chuẩn dự án
-└── templates/              # Mẫu tài liệu
+├── vision/         # Tầm nhìn và chiến lược sản phẩm
+├── adr/            # Architecture Decision Records
+├── prd/            # Product Requirement Documents
+├── user-journey/   # Hành trình người dùng
+├── use-case/       # Luồng nghiệp vụ và acceptance criteria
+├── spec/           # Đặc tả kỹ thuật triển khai
+├── api/            # API conventions và contracts
+├── database/       # Thiết kế dữ liệu theo domain
+├── ai/             # AI Gateway, RAG và evaluation
+├── ui/             # Screen flow và trạng thái giao diện
+├── roadmap/        # Milestone và phạm vi sprint
+├── templates/      # Mẫu tài liệu
+└── meeting/        # Biên bản quyết định theo phiên làm việc
 ```
 
----
+## Traceability
 
-# Thứ tự đọc tài liệu
+Mọi tính năng phải truy vết được theo chuỗi:
 
-Nếu bạn là thành viên mới của dự án, hãy đọc theo thứ tự:
+```text
+Vision → PRD → User Journey → Use Case → SPEC → API/UI → Database → Code → Test
+```
 
-1. PROJECT_BIBLE.md
-2. Architecture.md
-3. Glossary.md
-4. Vision
-5. ADR
-6. PRD
-7. SPEC
-8. API
-9. Database
+Thay đổi kiến trúc phải có ADR. Thay đổi contract phải cập nhật tài liệu liên quan trong cùng pull request.
 
----
+## Trạng thái
 
-# Nguyên tắc
-
-- Documentation First
-- API First
-- AI First
-- Learner First
-
-Mỗi tính năng mới đều phải đi theo quy trình:
-
-PRD → User Journey → Use Case → API → Database → Code
-
----
-
-# Trạng thái hiện tại
-
-- Sprint 0: Repository Bootstrap
-- Sprint 1: First Learning Experience (sắp triển khai)
+- Sprint 0: Documentation and repository bootstrap.
+- Sprint 1: First Learning Experience.
+- Code chưa bắt đầu; tài liệu Sprint 1 là baseline để triển khai.
