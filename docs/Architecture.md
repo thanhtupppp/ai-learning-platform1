@@ -1,50 +1,68 @@
 # Kiến trúc hệ thống
 
-## Giới thiệu
+## Mục đích
 
-AI Learning Platform được thiết kế theo kiến trúc **Modular Monolith** trong giai đoạn đầu để tối ưu tốc độ phát triển, dễ bảo trì và có khả năng mở rộng thành Microservices trong tương lai.
+Tài liệu này mô tả kiến trúc tổng thể của AI Learning Platform và là điểm tham chiếu cho toàn bộ quá trình phát triển.
 
 ---
 
-# Triết lý kiến trúc
+# Mục tiêu kiến trúc
 
-Dự án tuân theo các nguyên tắc:
+AI Learning Platform được xây dựng với các mục tiêu:
 
-- Learner First
-- AI First
-- Knowledge Centric
-- Documentation First
-- API First
+- Dễ mở rộng.
+- Dễ bảo trì.
+- Hỗ trợ nhiều môn học.
+- Hỗ trợ AI ngay từ thiết kế.
+- Có thể phát triển trong nhiều năm.
 
 ---
 
 # Kiến trúc tổng thể
 
-App
+```text
+Ứng dụng
 
-↓
+        ↓
 
-API
+Backend API
 
-↓
+        ↓
 
-Modules
+Business Modules
 
-↓
+        ↓
 
 Database
 
-↓
+        ↓
 
 AI Gateway
 
-↓
+        ↓
+
+9Router
+
+        ↓
 
 LLM
+```
 
 ---
 
-# Các module chính
+# Kiến trúc triển khai
+
+Trong giai đoạn đầu, hệ thống sử dụng **Modular Monolith**.
+
+Mỗi module có ranh giới rõ ràng nhưng được triển khai trong cùng một backend.
+
+Khi cần mở rộng, từng module có thể tách thành Microservice mà không ảnh hưởng lớn đến phần còn lại của hệ thống.
+
+---
+
+# Các module
+
+Hệ thống gồm các module:
 
 - Identity
 - Subject
@@ -60,13 +78,24 @@ LLM
 - Media
 - System
 
+Mỗi module chịu trách nhiệm cho một miền nghiệp vụ riêng và không truy cập trực tiếp dữ liệu của module khác.
+
 ---
 
-# AI
+# Kiến trúc AI
 
-Ứng dụng không giao tiếp trực tiếp với LLM.
+Ứng dụng không giao tiếp trực tiếp với mô hình AI.
 
-Mọi yêu cầu đều đi qua:
+Mọi yêu cầu đều đi qua AI Gateway.
+
+```text
+App
+
+↓
+
+Backend
+
+↓
 
 AI Gateway
 
@@ -81,55 +110,73 @@ Model Selector
 ↓
 
 LLM
+```
+
+Điều này giúp:
+
+- Không phụ thuộc vào một nhà cung cấp AI.
+- Dễ thay đổi mô hình.
+- Theo dõi chi phí.
+- Quản lý log.
+- Chuẩn hóa phản hồi.
 
 ---
 
-# Dữ liệu
+# Quản lý dữ liệu
 
-Hệ thống sử dụng PostgreSQL làm cơ sở dữ liệu chính.
+Hệ thống sử dụng:
 
-Vector Search sử dụng pgvector.
-
-Redis được dùng cho Cache.
-
-Object Storage dùng MinIO hoặc S3.
+- PostgreSQL làm cơ sở dữ liệu chính.
+- pgvector phục vụ tìm kiếm ngữ nghĩa.
+- Redis cho cache.
+- MinIO hoặc Amazon S3 cho lưu trữ tệp.
 
 ---
 
-# Ứng dụng
+# Cấu trúc mã nguồn
 
+```text
 apps/
-
-- mobile
-- admin
-- web
-
----
-
-# Backend
+    mobile/
+    admin/
+    web/
 
 services/
+    api/
+    ai-gateway/
+    worker/
 
-- api
-- ai-gateway
-- worker
+packages/
+    shared/
+    design-system/
+    sdk/
 
----
-
-# Documentation
-
-Mọi quyết định kỹ thuật phải được ghi nhận bằng ADR.
-
-Mọi yêu cầu sản phẩm phải được ghi nhận bằng PRD.
-
-Mọi đặc tả triển khai phải được ghi nhận bằng SPEC.
+infrastructure/
+```
 
 ---
 
-# Nguyên tắc
+# Nguyên tắc phát triển
 
-Không viết code nếu chưa có:
+Dự án tuân theo các nguyên tắc:
 
+- Documentation First.
+- API First.
+- Learner First.
+- AI First.
+- Modular Architecture.
+
+Mọi tính năng mới đều phải đi theo quy trình:
+
+PRD → User Journey → Use Case → API → Database → Code
+
+---
+
+# Tài liệu liên quan
+
+- PROJECT_BIBLE.md
+- README.md
+- Vision
+- ADR
+- SPEC
 - PRD
-- User Journey
-- API Contract
