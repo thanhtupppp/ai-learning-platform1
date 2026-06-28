@@ -1,5 +1,12 @@
 # AI-002 – RAG and Retrieval
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** AI-002
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** AI Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [ADR-005](file:///d:/ai-learning-platform/docs/adr/ADR-005_RAG_Domain_Isolation.md), [DB-010](file:///d:/ai-learning-platform/docs/database/DB-010_RAG.md)
+
 ## Mục tiêu
 
 Cung cấp context có nguồn cho AI Tutor và các capability cần kiến thức, đồng thời tách công nghệ vector khỏi schema nghiệp vụ.

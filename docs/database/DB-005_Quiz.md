@@ -1,11 +1,11 @@
 # DB-005 – Quiz Domain
 
-## Thông tin
-
-- **Mã:** DB-005
-- **Trạng thái:** Draft
-- **Domain:** Assessment / Quiz
-- **Liên quan:** DB-001, DB-002, DB-003, DB-004, PRD-001, UJ-001, UC-007, API-004
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-005
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [API-004](file:///d:/ai-learning-platform/docs/api/API-004_Quiz.md)
 
 ---
 

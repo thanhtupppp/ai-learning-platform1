@@ -1,11 +1,11 @@
 # DB-002 – Authentication Domain
 
-## Thông tin
-
-- **Mã:** DB-002
-- **Tên:** Authentication Domain
-- **Trạng thái:** Draft
-- **Liên quan:** DB-001, PRD-001, UC-001, UC-008
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-002
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [API-001](file:///d:/ai-learning-platform/docs/api/API-001_Authentication.md)
 
 ---
 

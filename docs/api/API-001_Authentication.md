@@ -1,5 +1,12 @@
 # API-001 - Xác thực và Guest Mode
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-001
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [UC-001](file:///d:/ai-learning-platform/docs/use-case/UC-001_Start_Learning_As_Guest.md), [UC-008](file:///d:/ai-learning-platform/docs/use-case/UC-008_Link_Guest_Account.md), [DB-002](file:///d:/ai-learning-platform/docs/database/DB-002_Authentication.md)
+
 ## Mục đích
 
 Cung cấp các API phục vụ:

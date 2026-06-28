@@ -1,8 +1,11 @@
 # ADR-005 – Tách RAG khỏi Learning và AI Conversation
 
-## Trạng thái
-
-**Đã chốt**
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** ADR-005
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** AI Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [AI-002](file:///d:/ai-learning-platform/docs/ai/AI-002_RAG.md), [DB-010](file:///d:/ai-learning-platform/docs/database/DB-010_RAG.md)
 
 ## Bối cảnh
 

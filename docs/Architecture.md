@@ -1,5 +1,12 @@
 # Kiến trúc hệ thống
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** ARCH
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Project Bible](PROJECT_BIBLE.md), [ADRs](adr/README.md)
+
 ## Mục đích
 
 Tài liệu này mô tả kiến trúc tổng thể của AI Learning Platform và là điểm tham chiếu cho toàn bộ quá trình phát triển.

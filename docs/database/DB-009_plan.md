@@ -1,11 +1,11 @@
 # DB-009 – Database Implementation Plan
 
-## Thông tin
-
-- **Mã:** DB-009
-- **Trạng thái:** Draft
-- **Phạm vi:** Kế hoạch triển khai database
-- **Liên quan:** DB-001 → DB-008
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-009
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [DB-008](file:///d:/ai-learning-platform/docs/database/DB-008_database.md)
 
 ---
 

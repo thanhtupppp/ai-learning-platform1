@@ -1,10 +1,11 @@
 # SPEC-001 – First Learning Experience
 
-## Thông tin
-
-- **Trạng thái:** Approved for implementation
-- **Phạm vi:** Sprint 1
-- **Nguồn:** PRD-001, UJ-001, UC-001→UC-008
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** SPEC-001
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [UJ-001](file:///d:/ai-learning-platform/docs/user-journey/UJ-001_First_Learning_Experience.md), [Use Cases](file:///d:/ai-learning-platform/docs/use-case/README.md)
 
 ## Mục tiêu kỹ thuật
 

@@ -1,11 +1,11 @@
 # DB-006 – Gamification Domain
 
-## Thông tin
-
-- **Mã:** DB-006
-- **Trạng thái:** Draft
-- **Domain:** Gamification
-- **Liên quan:** DB-001, DB-002, DB-003, DB-005, PRD-001
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-006
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [API-006](file:///d:/ai-learning-platform/docs/api/API-006_Gamification.md)
 
 ---
 

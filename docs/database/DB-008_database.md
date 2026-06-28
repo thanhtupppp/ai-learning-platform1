@@ -1,11 +1,11 @@
 # DB-008 – Database Standards and Operations
 
-## Thông tin
-
-- **Mã:** DB-008
-- **Trạng thái:** Draft
-- **Phạm vi:** Toàn bộ database của AI Learning Platform
-- **Liên quan:** DB-001 → DB-007
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-008
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [DB-009](file:///d:/ai-learning-platform/docs/database/DB-009_plan.md)
 
 ---
 

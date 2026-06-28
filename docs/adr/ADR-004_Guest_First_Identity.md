@@ -1,8 +1,11 @@
 # ADR-004 – Guest-first Identity
 
-## Trạng thái
-
-**Đã chốt**
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** ADR-004
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Product Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [UC-001](file:///d:/ai-learning-platform/docs/use-case/UC-001_Start_Learning_As_Guest.md)
 
 ## Bối cảnh
 

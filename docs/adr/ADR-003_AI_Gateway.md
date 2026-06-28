@@ -1,8 +1,11 @@
 # ADR-003 – AI Gateway và Provider Abstraction
 
-## Trạng thái
-
-**Đã chốt**
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** ADR-003
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** AI Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Architecture](file:///d:/ai-learning-platform/docs/Architecture.md), [AI-001](file:///d:/ai-learning-platform/docs/ai/AI-001_AI_Gateway.md)
 
 ## Bối cảnh
 

@@ -1,11 +1,11 @@
 # UJ-001 – Trải nghiệm học đầu tiên
 
-## Trạng thái
-
-- **Mã:** UJ-001
-- **Tên:** Trải nghiệm học đầu tiên
-- **Sprint:** Sprint 1
-- **Trạng thái:** Đã chốt
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** UJ-001
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Product Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [Use Cases](file:///d:/ai-learning-platform/docs/use-case/README.md)
 
 ---
 

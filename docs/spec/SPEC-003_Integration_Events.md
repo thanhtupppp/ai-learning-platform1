@@ -1,5 +1,12 @@
 # SPEC-003 – Integration Events
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** SPEC-003
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [SPEC-001](file:///d:/ai-learning-platform/docs/spec/SPEC-001_First_Learning_Experience.md)
+
 ## Mục tiêu
 
 Chuẩn hóa event giữa các module trong Modular Monolith và worker.

@@ -1,11 +1,11 @@
 # DB-004 – AI Domain
 
-## Thông tin
-
-- **Mã:** DB-004
-- **Tên:** AI Domain
-- **Trạng thái:** Draft
-- **Liên quan:** DB-001, DB-003, PRD-001, UC-004, UC-005, UC-006
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-004
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [API-003](file:///d:/ai-learning-platform/docs/api/API-003_AI_Tutor.md), [AI-001](file:///d:/ai-learning-platform/docs/ai/AI-001_AI_Gateway.md)
 
 ---
 

@@ -1,8 +1,11 @@
 # SPEC-002 – Non-functional Requirements
 
-## Trạng thái
-
-Approved baseline cho Sprint 1; các ngưỡng sẽ được hiệu chỉnh từ telemetry thực tế.
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** SPEC-002
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [SPEC-001](file:///d:/ai-learning-platform/docs/spec/SPEC-001_First_Learning_Experience.md)
 
 ## Performance
 

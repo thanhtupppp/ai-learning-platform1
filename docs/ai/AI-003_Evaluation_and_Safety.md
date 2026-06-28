@@ -1,5 +1,12 @@
 # AI-003 – Evaluation and Safety
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** AI-003
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** AI Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [AI-001](file:///d:/ai-learning-platform/docs/ai/AI-001_AI_Gateway.md)
+
 ## Mục tiêu
 
 Không phát hành capability AI chỉ dựa trên demo thủ công. Mỗi capability phải có evaluation dataset, metric và release gate.

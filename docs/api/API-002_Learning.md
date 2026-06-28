@@ -1,5 +1,12 @@
 # API-002 - Learning Service
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-002
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [UC-004](file:///d:/ai-learning-platform/docs/use-case/UC-004_Generate_Learning_Path.md), [UC-005](file:///d:/ai-learning-platform/docs/use-case/UC-005_Start_First_Lesson.md), [DB-003](file:///d:/ai-learning-platform/docs/database/DB-003%20_Learning%20Domain.md)
+
 ## Mục đích
 
 Cung cấp các API phục vụ toàn bộ quá trình học tập của người dùng.

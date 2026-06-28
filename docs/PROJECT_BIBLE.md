@@ -1,5 +1,12 @@
 # PROJECT BIBLE
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** BIBLE
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Product Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Vision](vision/VISION-001_AI_Learning_OS.md), [Roadmap](roadmap/ROADMAP.md)
+
 ## Vision
 
 Build an AI Learning OS that helps learners understand deeply, remember longer, and achieve learning goals with personalized guidance.

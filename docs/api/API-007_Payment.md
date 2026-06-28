@@ -1,5 +1,12 @@
 # API-007 - Billing & Payment Service
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-007
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-007](file:///d:/ai-learning-platform/docs/database/DB-007_Payment.md)
+
 ## Mục đích
 
 Cung cấp các API phục vụ quản lý gói cước (Plans), gói đăng ký hoạt động (Subscriptions), quyền hạn sử dụng tính năng nâng cao (Entitlements), hóa đơn thanh toán (Invoices) và các cổng thanh toán.

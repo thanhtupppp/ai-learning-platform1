@@ -1,5 +1,12 @@
 # AI-001 – AI Gateway
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** AI-001
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** AI Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [ADR-003](file:///d:/ai-learning-platform/docs/adr/ADR-003_AI_Gateway.md), [API-003](file:///d:/ai-learning-platform/docs/api/API-003_AI_Tutor.md)
+
 ## Mục tiêu
 
 Cung cấp một cổng duy nhất cho mọi tác vụ AI, độc lập provider và có quan sát chi phí, chất lượng, độ trễ.

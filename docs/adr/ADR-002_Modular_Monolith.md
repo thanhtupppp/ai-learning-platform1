@@ -1,8 +1,11 @@
 # ADR-002 – Modular Monolith cho Backend
 
-## Trạng thái
-
-**Đã chốt**
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** ADR-002
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Architecture](file:///d:/ai-learning-platform/docs/Architecture.md)
 
 ## Bối cảnh
 

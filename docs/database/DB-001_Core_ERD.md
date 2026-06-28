@@ -1,11 +1,11 @@
 # DB-001 – Core ERD
 
-## Thông tin
-
-- **Mã:** DB-001
-- **Tên:** Core Entity Relationship Diagram
-- **Trạng thái:** Draft
-- **Liên quan:** PRD-001, UJ-001, UC-001 → UC-008
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-001
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [UJ-001](file:///d:/ai-learning-platform/docs/user-journey/UJ-001_First_Learning_Experience.md), [DB-002](file:///d:/ai-learning-platform/docs/database/DB-002_Authentication.md), [DB-011](file:///d:/ai-learning-platform/docs/database/DB-011_System.md)
 
 ---
 

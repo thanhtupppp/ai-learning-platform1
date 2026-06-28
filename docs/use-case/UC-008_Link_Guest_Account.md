@@ -1,12 +1,11 @@
 # UC-008 – Liên kết tài khoản Guest
 
-## Thông tin
-
-- **Mã:** UC-008
-- **Tên:** Liên kết tài khoản Guest
-- **Liên quan:** PRD-001, UJ-001
-- **Độ ưu tiên:** Cao
-- **Tác nhân chính:** Người học
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** UC-008
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Frontend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [UJ-001](file:///d:/ai-learning-platform/docs/user-journey/UJ-001_First_Learning_Experience.md), [API-001](file:///d:/ai-learning-platform/docs/api/API-001_Authentication.md)
 
 ---
 

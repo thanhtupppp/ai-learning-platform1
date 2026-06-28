@@ -1,5 +1,12 @@
 # UI-002 – Design Foundations
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** UI-002
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Frontend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [UI-001](file:///d:/ai-learning-platform/docs/ui/UI-001_First_Learning_Experience.md)
+
 ## Mục tiêu
 
 Định nghĩa baseline đủ để Flutter bootstrap nhất quán mà chưa khóa visual brand quá sớm.

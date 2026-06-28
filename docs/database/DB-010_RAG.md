@@ -1,11 +1,11 @@
 # DB-010 – RAG / Vector Retrieval Domain
 
-## Thông tin
-
-- **Mã:** DB-010
-- **Trạng thái:** Approved design; implementation deferred until RAG milestone
-- **Domain:** Retrieval
-- **Liên quan:** ADR-005, DB-003, DB-004, AI-002
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-010
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [ADR-005](file:///d:/ai-learning-platform/docs/adr/ADR-005_RAG_Domain_Isolation.md), [AI-002](file:///d:/ai-learning-platform/docs/ai/AI-002_RAG.md)
 
 ## Mục tiêu
 

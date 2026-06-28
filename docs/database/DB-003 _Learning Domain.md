@@ -1,11 +1,11 @@
 # DB-003 – Learning Domain
 
-## Thông tin
-
-- **Mã:** DB-003
-- **Tên:** Learning Domain
-- **Trạng thái:** Draft
-- **Liên quan:** DB-001, DB-002, PRD-001, UJ-001, UC-002 → UC-008
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-003
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [API-002](file:///d:/ai-learning-platform/docs/api/API-002_Learning.md), [API-005](file:///d:/ai-learning-platform/docs/api/API-005_User_Profile.md)
 
 ---
 

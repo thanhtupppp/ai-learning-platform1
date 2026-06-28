@@ -1,5 +1,12 @@
 # Product and Engineering Roadmap
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** ROAD
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Product Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Project Bible](file:///d:/ai-learning-platform/docs/PROJECT_BIBLE.md)
+
 ## Nguyên tắc
 
 Roadmap mô tả outcome và dependency, không phải cam kết ngày phát hành. Mỗi milestone chỉ bắt đầu khi exit criteria của milestone trước đạt.

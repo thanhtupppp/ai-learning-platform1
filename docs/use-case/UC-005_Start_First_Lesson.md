@@ -1,12 +1,11 @@
 # UC-005 – Bắt đầu bài học đầu tiên
 
-## Thông tin
-
-- **Mã:** UC-005
-- **Tên:** Bắt đầu bài học đầu tiên
-- **Liên quan:** PRD-001, UJ-001
-- **Độ ưu tiên:** Rất cao
-- **Tác nhân chính:** Người học
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** UC-005
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Frontend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [UJ-001](file:///d:/ai-learning-platform/docs/user-journey/UJ-001_First_Learning_Experience.md), [API-002](file:///d:/ai-learning-platform/docs/api/API-002_Learning.md)
 
 ---
 

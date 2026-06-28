@@ -1,5 +1,12 @@
 # API-006 - Gamification Service
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-006
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-006](file:///d:/ai-learning-platform/docs/database/DB-006_Gamification.md)
+
 ## Mục đích
 
 Cung cấp các API phục vụ các tính năng Gamification để giữ chân người học (Retention) bao gồm:

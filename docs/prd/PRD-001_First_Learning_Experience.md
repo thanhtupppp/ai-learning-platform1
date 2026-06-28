@@ -1,8 +1,11 @@
 # PRD-001 - Trải nghiệm học đầu tiên
 
-## Trạng thái
-
-🟢 Đã chốt
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** PRD-001
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Product Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Vision](file:///d:/ai-learning-platform/docs/vision/VISION-001_AI_Learning_OS.md), [User Journey](file:///d:/ai-learning-platform/docs/user-journey/UJ-001_First_Learning_Experience.md)
 
 ---
 

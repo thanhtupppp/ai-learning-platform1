@@ -1,12 +1,11 @@
 # UC-004 – AI tạo lộ trình học
 
-## Thông tin
-
-- **Mã:** UC-004
-- **Tên:** AI tạo lộ trình học
-- **Liên quan:** PRD-001, UJ-001
-- **Độ ưu tiên:** Rất cao
-- **Tác nhân chính:** AI Learning Engine
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** UC-004
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** AI Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [UJ-001](file:///d:/ai-learning-platform/docs/user-journey/UJ-001_First_Learning_Experience.md), [API-002](file:///d:/ai-learning-platform/docs/api/API-002_Learning.md)
 
 ---
 

@@ -1,5 +1,12 @@
 # VISION-001 – AI Learning OS
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** VISION-001
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Product Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Project Bible](file:///d:/ai-learning-platform/docs/PROJECT_BIBLE.md), [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md)
+
 ## Tuyên bố tầm nhìn
 
 Xây dựng một AI Learning OS giúp mỗi người học biết nên học gì, hiểu kiến thức theo cách phù hợp với mình, ghi nhớ lâu hơn và đo được tiến bộ theo thời gian.

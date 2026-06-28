@@ -1,5 +1,12 @@
 # Quy trình phát triển dự án
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** PROC
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Quality Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Quy chuẩn soạn thảo tài liệu](Documentation_Standards.md), [Project Bible](PROJECT_BIBLE.md)
+
 ## Mục đích
 
 Tài liệu này mô tả quy trình phát triển chính thức của AI Learning Platform.

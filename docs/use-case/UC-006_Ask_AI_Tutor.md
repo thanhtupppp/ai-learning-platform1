@@ -1,13 +1,11 @@
 # UC-006 – Hỏi AI Tutor
 
-## Thông tin
-
-- **Mã:** UC-006
-- **Tên:** Hỏi AI Tutor
-- **Liên quan:** PRD-001, UJ-001
-- **Độ ưu tiên:** Rất cao
-- **Tác nhân chính:** Người học
-- **Tác nhân phụ:** AI Gateway
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** UC-006
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Frontend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [PRD-001](file:///d:/ai-learning-platform/docs/prd/PRD-001_First_Learning_Experience.md), [UJ-001](file:///d:/ai-learning-platform/docs/user-journey/UJ-001_First_Learning_Experience.md), [API-003](file:///d:/ai-learning-platform/docs/api/API-003_AI_Tutor.md)
 
 ---
 

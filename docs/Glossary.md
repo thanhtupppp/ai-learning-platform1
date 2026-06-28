@@ -1,5 +1,12 @@
 # Thuật ngữ dự án (Glossary)
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** GLOS
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Product Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [Project Bible](PROJECT_BIBLE.md)
+
 ## Mục đích
 
 Tài liệu này định nghĩa các thuật ngữ được sử dụng xuyên suốt dự án AI Learning Platform.

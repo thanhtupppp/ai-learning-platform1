@@ -1,5 +1,12 @@
 # API-005 - User Profile & Learning Progress
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-005
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [UC-002](file:///d:/ai-learning-platform/docs/use-case/UC-002_Select_Learning_Goal.md), [UC-003](file:///d:/ai-learning-platform/docs/use-case/UC-003_Select_Subject.md), [DB-003](file:///d:/ai-learning-platform/docs/database/DB-003%20_Learning%20Domain.md)
+
 ## Mục đích
 
 Quản lý hồ sơ người học và toàn bộ tiến độ học tập.

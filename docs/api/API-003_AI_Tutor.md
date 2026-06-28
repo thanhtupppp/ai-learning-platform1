@@ -1,5 +1,12 @@
 # API-003 - AI Tutor Service
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-003
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** AI Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [UC-006](file:///d:/ai-learning-platform/docs/use-case/UC-006_Ask_AI_Tutor.md), [AI-001](file:///d:/ai-learning-platform/docs/ai/AI-001_AI_Gateway.md), [DB-004](file:///d:/ai-learning-platform/docs/database/DB-004_AI.md)
+
 ## Mục đích
 
 Cung cấp dịch vụ AI Tutor hỗ trợ người học trong suốt quá trình học tập.

@@ -1,11 +1,11 @@
 # DB-007 – Payment Domain
 
-## Thông tin
-
-- **Mã:** DB-007
-- **Trạng thái:** Draft
-- **Domain:** Billing / Payment
-- **Liên quan:** DB-001, DB-002, PRD-001
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** DB-007
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [DB-001](file:///d:/ai-learning-platform/docs/database/DB-001_Core_ERD.md), [API-007](file:///d:/ai-learning-platform/docs/api/API-007_Payment.md)
 
 ---
 

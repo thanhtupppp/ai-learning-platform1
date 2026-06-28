@@ -1,5 +1,12 @@
 # API-004 - Quiz Service
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-004
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [UC-007](file:///d:/ai-learning-platform/docs/use-case/UC-007_Complete_Mini_Quiz.md), [DB-005](file:///d:/ai-learning-platform/docs/database/DB-005_Quiz.md)
+
 ## Mục đích
 
 Cung cấp các API phục vụ việc đánh giá quá trình học tập của người học.

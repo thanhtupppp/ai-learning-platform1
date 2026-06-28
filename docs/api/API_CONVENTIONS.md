@@ -1,5 +1,12 @@
 # API Conventions
 
+> **Thông tin quản trị:**
+> - **Mã tài liệu:** API-CONV
+> - **Trạng thái:** Approved
+> - **Người sở hữu:** Backend Team
+> - **Cập nhật cuối:** 2026-06-28
+> - **Tài liệu liên quan:** [README](file:///d:/ai-learning-platform/docs/api/README.md)
+
 ## Base URL và version
 
 ```text
