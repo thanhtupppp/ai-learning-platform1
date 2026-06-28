@@ -1,0 +1,29 @@
+{
+  "name": "ai-learning-platform",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AI-first Personalized Learning OS",
+  "scripts": {
+    "dev": "pnpm --parallel -r dev",
+    "dev:api": "pnpm --filter @ai-learning/api dev",
+    "dev:ai-gateway": "pnpm --filter @ai-learning/ai-gateway dev",
+    "dev:web": "pnpm --filter @ai-learning/web dev",
+    "dev:admin": "pnpm --filter @ai-learning/admin dev",
+    "build": "pnpm -r build",
+    "db:migrate": "pnpm --filter @ai-learning/api db:migrate",
+    "db:seed": "pnpm --filter @ai-learning/api db:seed"
+  },
+  "devDependencies": {
+    "axios": "^1.18.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@nestjs/core",
+      "@prisma/client",
+      "@prisma/engines",
+      "prisma"
+    ]
+  }
+}
